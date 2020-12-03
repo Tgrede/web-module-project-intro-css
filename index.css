@@ -1,0 +1,110 @@
+    @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono&display=swap');
+    /* * {
+        border: 1px solid black;
+    } */
+    
+    body {
+        font-family: roboto mono, monospace;
+        margin:0;
+    }
+    header div {
+        display: inline-block;
+        margin:0 auto;
+    }
+    
+    h1 {
+        font-family: chelsea market, cursive;
+        font-size:49px;
+    }
+    
+    header {
+        width:95%;
+        margin-left:10%;
+        margin-top:40px;
+    }
+    
+    .header-text {
+        text-align: center;
+        height: 100%;
+        width:60%;
+        padding-bottom:20px;
+    }
+    .logo {
+        border-radius:50%;
+        width:200px;
+    }
+    
+    footer {
+        background-color: #f9e7dc;
+    }
+    
+    .bottom-container {
+        overflow: hidden;
+        width:100%;  
+        height:200px;
+        padding-top:10%;
+        background-image: url('assets/footer_img.jpg'); 
+        background-position:center top;
+        background-size:cover;
+    }
+    
+    .list1 {
+        background-color: #ff764e;
+    }
+    
+    .list2 {
+        background-color: #5ed3eb;
+    }
+    
+    .list3 {
+        background-color: #ffcd69;
+    }
+    
+    .first-section {
+        width: 95%;
+        margin: 0 auto;
+        padding:5px 10px;
+        background-color: #ddb9a3;
+        text-align:center;
+        color:white
+    }
+    
+    .campfire {
+        width: 40%;
+        margin: 0 auto;
+    }
+    
+    .van {
+        width: 40%;
+        margin: 0 auto;
+    }
+    
+    ul li {
+        display: inline-block;
+        border-radius: 10px;
+        text-align: center;
+        color: white;
+        margin:0% 7.5%;
+        padding: 5px 25px;
+    }
+    .nav-bar{
+        margin-left:10%;
+        margin-bottom:0px;
+        padding-bottom:25px;
+        padding-top:20px;
+    }
+    
+    .fire-van-section {
+        width: 30%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .fire-van-section p{
+        letter-spacing: .5;
+    }
+    
+    
+    span {
+        font-weight: bold;
+    }
